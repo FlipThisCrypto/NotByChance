@@ -40,7 +40,7 @@ export default function GetInvolved() {
 
         <section className="section container bg-light card border-accent">
           <h2>Financial Support</h2>
-          <p>100% of public donations go directly toward purchasing supplies and maintaining our outreach logistics. We are a volunteer-led 501(c)(3) nonprofit.</p>
+          <p>100% of public donations go directly toward purchasing supplies and maintaining our outreach logistics. We are a volunteer-led organization with 501(c)(3) status pending.</p>
           <a href="mailto:info@notbychanceoutreach.com?subject=Donation%20Inquiry" className="btn btn-primary lg">Donate Securely Online</a>
           <p className="text-small">Donations are tax-deductible to the extent allowed by law.</p>
         </section>
