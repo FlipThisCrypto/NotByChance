@@ -24,7 +24,7 @@ export default function GetInvolved() {
               <li>Direct outreach rounds</li>
               <li>Transport and logistics</li>
             </ul>
-            <a href="mailto:volunteer@notbychanceoutreach.com" className="btn btn-primary">Inquire to Volunteer</a>
+            <a href="mailto:info@notbychanceoutreach.com" className="btn btn-primary">Inquire to Volunteer</a>
           </div>
           <div className="card">
             <h2>Donate Supplies</h2>
