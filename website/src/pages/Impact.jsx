@@ -1,4 +1,5 @@
 import SEOMeta from '../components/SEOMeta'
+import DonateButton from '../components/DonateButton'
 import supplies2 from '../assets/images/supplies2.jpg'
 import supplies1a from '../assets/images/supplies1a.jpg'
 import supplies1b from '../assets/images/supplies1b.jpg'
@@ -70,6 +71,8 @@ export default function Impact() {
           <h2>Operational Transparency</h2>
           <p>Not By Chance Outreach operates with the core belief that trust is built through presence. Our gallery reflects the reality of street outreach—meeting needs where they are located, without filter or judgment.</p>
         </section>
+
+        <DonateButton />
       </div>
     </>
   )

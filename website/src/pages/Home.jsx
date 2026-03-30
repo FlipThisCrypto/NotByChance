@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import SEOMeta from '../components/SEOMeta'
+import DonateButton from '../components/DonateButton'
 import presenceImg from '../assets/images/Presence-Over-Promises.png'
 
 export default function Home() {
@@ -61,6 +62,8 @@ export default function Home() {
             <Link to="/get-involved" className="btn btn-primary lg">Get Involved Today</Link>
           </div>
         </section>
+
+        <DonateButton />
       </div>
     </>
   )

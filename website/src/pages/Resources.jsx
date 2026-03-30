@@ -1,4 +1,5 @@
 import SEOMeta from '../components/SEOMeta'
+import DonateButton from '../components/DonateButton'
 
 export default function Resources() {
   return (
@@ -78,6 +79,8 @@ export default function Resources() {
           <p>Not By Chance Outreach provides hygiene items, socks, and seasonal supplies directly in the field. If you are an individual in need or represent an organization seeking outreach support, please contact our outreach team.</p>
           <a href="mailto:info@notbychanceoutreach.com" className="btn btn-secondary">Contact Outreach Team</a>
         </section>
+
+        <DonateButton />
       </div>
     </>
   )

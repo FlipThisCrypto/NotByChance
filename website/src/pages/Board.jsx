@@ -1,4 +1,5 @@
 import SEOMeta from '../components/SEOMeta'
+import DonateButton from '../components/DonateButton'
 
 export default function Board() {
   return (
@@ -54,6 +55,8 @@ export default function Board() {
             <p>The Board of Directors provides oversight to ensure Not By Chance Outreach operates ethically, transparently, and in alignment with its mission. Strong financial controls, compliance oversight, and community collaboration guide all decisions.</p>
           </div>
         </section>
+
+        <DonateButton />
       </div>
     </>
   )

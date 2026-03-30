@@ -1,4 +1,5 @@
 import SEOMeta from '../components/SEOMeta'
+import DonateButton from '../components/DonateButton'
 import campImg from '../assets/images/camp2.jpg'
 
 export default function Mission() {
@@ -47,6 +48,8 @@ export default function Mission() {
             </div>
           </div>
         </section>
+
+        <DonateButton />
       </div>
     </>
   )

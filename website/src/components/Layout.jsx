@@ -62,7 +62,7 @@ export default function Layout() {
         </div>
         <div className="footer-bottom">
           <div className="container">
-            <p>&copy; 2026 Not By Chance Outreach. All rights reserved. Registered 501(c)(3) Nonprofit. 501(c)(3) status is pending at this time.</p>
+            <p>&copy; 2026 Not By Chance Outreach. All rights reserved. Registered 501(c)(3) Nonprofit.</p>
           </div>
         </div>
       </footer>
